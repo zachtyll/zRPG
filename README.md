@@ -17,4 +17,4 @@ En äldre karaktär har sett mer, mött fler och levt längre. Det finns tre niv
 
 [//]: # (This is a comment.)
 
-<a href="/docs">Docs</a>
+<a href="/docs/test.md">Docs</a>
