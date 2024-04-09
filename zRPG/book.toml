@@ -1,0 +1,6 @@
+[book]
+authors = ["zachtyll"]
+language = "en"
+multilingual = false
+src = "src"
+title = "zRPG"
