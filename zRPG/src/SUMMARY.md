@@ -1,3 +1,5 @@
-# Summary
+# Introduktion
 
-- [Chapter 1](./chapter_1.md)
+zRPG är ett rollspel som utspelar sig i en framtid efter framtiden.
+
+- [Din rollperson](./din_rollperson.md)
