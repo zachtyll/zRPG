@@ -15,19 +15,19 @@ Små handlingar såsom att kasta sig till marken, skrika några ord eller öppna
 #### Reaktiva handlingar
 Reaktiva handlingar utförs på motståndarens tur och räknas som fria handlingar.
 #### Lista över handlingar
-- Sprinta - Fördubbla din förflyttning.
-- Närstridsattack - Attackera en fiende inom 2 meter.
-- Avståndsattack - Attackera en fiende på avstånd.
-- Undvika - Att undvika en attack i närstrid eller på avstånd är en reaktiv handling som sker utanför din tur i turordningen.
-- Plocka upp föremål - Ta upp något inom 2 meter eller ur din packning.
-- Ta av/på kläder/utrustning - Ibland vill man ta av eller på sig saker.
-- Slå mot färdighet - Att slå mot en färdighet räknas som en tur i turordningen.
-- Hjälpa - Hjälp en annan spelare genom att slå för samma färdighet.
-- Första hjälpen - Rädda livet på någon som håller på att dö.
-- Kämpa på - Pusha dig till att kämpa på trots **utmattning**.
-- Använda föremål - Använd ett föremål du bär på.
-- Aktivera förmåga - Använd en förmåga. Räknas som en handling om inget annat anges i förmågan.
-- Hämta andan - Gå ner T4 **adrenalin** eller hälften, avrundat nedåt, av detsamma i **utmattning**.
+- **Sprinta** - Fördubbla din förflyttning.
+- **Närstridsattack** - Attackera en fiende inom 2 meter.
+- **Avståndsattack** - Attackera en fiende på avstånd.
+- **Undvika** - Att undvika en attack i närstrid eller på avstånd är en reaktiv handling som sker utanför din tur i turordningen.
+- **Plocka upp föremål** - Ta upp något inom 2 meter eller ur din packning.
+- **Ta av/på kläder/utrustning** - Ibland vill man ta av eller på sig saker.
+- **Slå mot färdighet** - Att slå mot en färdighet räknas som en tur i turordningen.
+- **Hjälpa** - Hjälp en annan spelare genom att slå för samma färdighet.
+- **Första hjälpen** - Rädda livet på någon som håller på att dö.
+- **Kämpa på** - Pusha dig till att kämpa på trots **utmattning**.
+- **Använda föremål** - Använd ett föremål du bär på.
+- **Aktivera förmåga** - Använd en förmåga. Räknas som en handling om inget annat anges i förmågan.
+- **Hämta andan** - Gå ner **T4** **adrenalin** eller hälften, avrundat nedåt, av detsamma i **utmattning**.
 ### Förflyttning
 Strid utförs på ett rutnät där varje ruta är 2 kvadratmeter stor. Din maximala förflyttning bestäms av din nivå av **smidighet**.
 |**Smidighet**|**Maximal förflyttning**|

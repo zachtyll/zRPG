@@ -7,13 +7,13 @@ Mjukvarusystem har två axlar av svårighetsgrad: **säkerhetsnivå** och **unde
 ## Hackning
 För att kunna hacka något måste det innehålla en dator, vara uppkopplad eller fysiskt tillgänglig för dig under en hel vila.
 ### Hackningsslag
-Du kan öka **utmattning** för att få en tillbakablick till hur du tidigare försökt hacka in dig i systemet. Du berättar först att du försökt hacka något. SL berättar berättar då vilken *säkerhetsnivå* systemet är i och slår sedan T4 för nivån av *underhåll*, därefter slår SL för *underhåll*. Du slår sedan ett kognitivt slag mot **logik** för att se om du lyckades.
+Du kan öka **utmattning** för att få en tillbakablick till hur du tidigare försökt hacka in dig i systemet. Du berättar först att du försökt hacka något. **SL** berättar berättar då vilken **säkerhetsnivå** systemet är i och slår sedan **T4** för nivån av **underhåll**, därefter slår **SL** för **underhåll**. Du slår sedan ett kognitivt slag mot **logik** för att se om du lyckades.
 ### Rättighetseskalering
 För att kunna hacka ett system av en viss **säkerhetsnivå** krävs det att du har samma **rättigheter**.
 ## Virus
-Du kan utveckla och släppa lös virus som kan hjälpa dig i dina äventyr. Var dock försiktig, de flesta systemen har sett att skydda sig mot inkräktare.
+Du kan utveckla och släppa lös virus som kan hjälpa dig i dina äventyr. Var dock försiktig, de flesta systemen har verktyg att skydda sig mot inkräktare.
 
-För att skapa ett nytt virus behöver du befinna dig i vila. Du kan då konsumera och slå mot **logik**
+För att skapa ett nytt virus behöver du befinna dig i vila. Du kan då konsumera en lärdom och slå mot **logik**
 
 ### Radiostyrningsvirus
 Du släpper loss ett virus som tar över en pliktmaskins målsättningssystem. Tar den sig förbi pliktmaskinens säkerhetssystem kan du kontrollera den i X-minuter.
