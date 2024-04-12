@@ -1,0 +1,70 @@
+# Strid & skada
+## Introduktion
+## Rundor & Initiativ
+### Initiativ
+För att bestämma turordningen slår du mot din nivå **instinkt**. Den som slår högst börjar och resten följer i nedstigande ordning. Slår två varelser lika är det den med högst **adrenalin** som går före och är det fortfarande lika slås slaget om för de som behöver. Om du vill avvakta din tur till ett senare läge kan du byta plats med valfri varelse med lägre turordning. 
+
+### Överraskning
+Om du utför en attack som **SL** bedömer vara överraskande för din motståndare börjar du och dina allierade första rundan. Från andra rundan behandlas initiativet som vanligt.
+
+## Handling & Förflyttning
+### Handlingar
+En handling i strid kan vara många olika saker. Listan nedan sammanfattar de vanligaste.
+#### Fria handlingar
+Små handlingar såsom att kasta sig till marken, skrika några ord eller öppna en dörr är fria handlingar. Fria handlingar räknas inte som en handling i turordningen.
+#### Reaktiva handlingar
+Reaktiva handlingar utförs på motståndarens tur och räknas som fria handlingar.
+#### Lista över handlingar
+- Sprinta - Fördubbla din förflyttning.
+- Närstridsattack - Attackera en fiende inom 2 meter.
+- Avståndsattack - Attackera en fiende på avstånd.
+- Undvika - Att undvika en attack i närstrid eller på avstånd är en reaktiv handling som sker utanför din tur i turordningen.
+- Plocka upp föremål - Ta upp något inom 2 meter eller ur din packning.
+- Ta av/på kläder/utrustning - Ibland vill man ta av eller på sig saker.
+- Slå mot färdighet - Att slå mot en färdighet räknas som en tur i turordningen.
+- Hjälpa - Hjälp en annan spelare genom att slå för samma färdighet.
+- Första hjälpen - Rädda livet på någon som håller på att dö.
+- Kämpa på - Pusha dig till att kämpa på trots **utmattning**.
+- Använda föremål - Använd ett föremål du bär på.
+- Aktivera förmåga - Använd en förmåga. Räknas som en handling om inget annat anges i förmågan.
+- Hämta andan - Gå ner T4 **adrenalin** eller hälften, avrundat nedåt, av detsamma i **utmattning**.
+### Förflyttning
+Strid utförs på ett rutnät där varje ruta är 2 kvadratmeter stor. Din maximala förflyttning bestäms av din nivå av **smidighet**.
+|**Smidighet**|**Maximal förflyttning**|
+|---|---|
+|1|4|
+|2|6|
+|3|8|
+|4|9|
+|5|10|
+## Närstrid
+I närstrid träffar alla typer av slag om målet inte undviker.
+### Utmattning
+Efter att du utför en närstridsattack slår du för **uthållighet**. Missar du måste du öka **utmattning** med en nivå.
+### Undvika
+När du blir träffad i närstrid kan du välja att undvika. För att undvika slår du mot **smidighet**, vid både träff och miss lyckas du undvika slaget, men vid miss måste du öka **utmattning** med en nivå. Vid **kritisk miss** lyckas du inte undvika. Vid **kritisk träff** undviker du och får ett frislag mot fienden. 
+
+## Avståndsstrid
+För att skjuta ett skott slår du mot **koordination**.
+
+## Skada
+Skadan bestäms av vilket vapen som används i attacken. När du tar skada slår du mot **smärtgräns**. Vid miss måste du öka **utmattning** med en nivå. 
+### Skadenivåer
+Det finns fyra skadenivåer:
+
+| **Nivå** | **Exempel** | **Orsakar** |
+|---|---|---|
+|1|Skrapsår och blåmärken|Ingen effekt|
+|2|Vrickade händer och brutna revben| Nackdel|
+|3|Brutna armar och hjärnskakningar| Läkarnöd|
+|4|Skott i huvudet och hugg i hjärtat| Död|
+
+När du tar skada av nivå 3 behöver du hjälp för att kunna utföra kroppsliga handlingar och vid nivå 4 dör du omedelbart.
+### Första hjälpen
+För att utföra första hjälpen krävs det att du bär på läkemedel.
+## Läkning & vila
+### Läkning
+Under vila kan du läka dina skador. Det krävs att du har läkemedel tillgängligt.
+
+### Pusta ut
+Under vila kan du pusta ut. När du pustar ut slår du mot **empati**. Vid träff sänker du **adrenalin** med en nivå och vid **kritisk träff** sänker du med två nivåer.
