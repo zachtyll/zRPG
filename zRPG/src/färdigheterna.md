@@ -1,35 +1,54 @@
-# Färdigheterna
-Under varje karaktärsdrag finns fyra färdigheter. Dessa färdigheter utgörs av:
+# Färdighet
+## Introduktion
+För att utföra riskabla handlingar i zRPG krävs det att spelare slår tärningar för att avgöra om de lyckas eller ej.
+## Slå tärning
+Det finns fem nivåer av tärningar:
+| **Nivå** | **Tärning** |
+| --- | --- |
+| 1 | T4 |
+| 2 | T6 |
+| 3 | T8 |
+| 4 | T10 |
+| 5 | T12 |
 
-## Konceptualisering (INT)
-Hitta nya sätt att se på saker, upptäck lärdomar där andra inte ser något att hämta.
-## Logik (INT)
-Analysera saker baserat på regler och härled teorier utifrån dem.
-## Visualisering (INT)
-Simulera världen i ditt huvud för att hitta rätt val.
-## Minne (INT)
-Kom ihåg saker som andra glömt och recitera texter du lärt dig utantill.
-## Empati (PSY)
-Förstå hur du själv och andra mår och hur ni kan må bättre.
-## Drama (PSY)
-För folk bakom ljuset och gör en show av det!
-## Övertygelse (PSY)
-Gå på magkänslor, mystiska tecken och drömmar. Om det funkar för mig, varför inte utnyttja det?
-## Konversera (PSY)
-Snacka med folk, få dem dela med sig av saker de kanske borde hållit för sig själv.
-## Krut (MUS)
-Du är höjden av rå styrka! Vem vill motbevisa dig? Ingen!
-## Smärtgräns (MUS)
-Stå emot smärta när du skadas, både i sinnet och i kroppen.
-## Uthållighet (MUS)
-Orka springa längre, klättra högre och hålla andan längre.
-## Instinkt (MUS)
-Låt förnimmelserna flöda! Känn av varje hot och reagera före alla andra.
-## Uppfattning (NER)
-Uppfatta världen omkring dig, vare sig det är hörsel, känsel ljud eller något annat.
-## Smidighet (NER)
-När du hoppar, klättrar, simmar, dansar eller flörtar gör du det med en elegans sällan beskådad.
-## Koordination (NER)
-När du behöver träffa ett mål rätt har du det man behöver.
-## Finmotorik (NER)
-Du gillar att pilla med komplexa saker. Lås, fällor, maskineri eller pussel, det kvittar för dig.
+### Fördel & nackdel
+Vid fördel går du upp en tärningsnivå och vid nackdel går du ned en tärningsnivå. För- och nackdelar kan "staplas" på varandra. En fördel negerar en nackdel och vice versa.
+
+### Kritisk träff & miss
+Slår du 1 för någon tärning räknas det som en **kritisk miss**. Detta leder till negativa konsekvenser utöver det vanliga. Motsatsen, **kritisk träff**, får du om du slår det högsta din #smallcaps **T4--T12** kan bli. Då händer ofta något positivt utöver det vanliga.
+
+Både kritiska träffar och missar leder till **lärdom** +1 i färdigheten som prövats.
+
+### Samarbete
+Om en spelare hjälper en annan med en uppgift slår var spelare för sin egen nivå av färdigheten.
+
+En **kritisk miss** negerar en **kritisk träff** och vice versa.
+
+## Adrenalin
+Detta värde avgör hur mycket adrenalin du har i kroppen. Adrenalin hjälper dig överleva fysiskt påfrestande situationer, men gör också att du inte blir lika bra på kognitiva uppgifter.
+
+Det maximala antalet adrenalinnivåer är 5.
+
+## Utmattning
+Detta värde avgör hur utmattad du är. Utmattning fås av att utföra fysiskt påfrestande uppgifter. En högre **uthållighet** gör att du inte blir utmattad lika snabbt.
+
+Det maximala antalet utmattningsnivåer är 5.
+
+## Kognitiva & Kroppsliga slag
+Det finns två typer av slag: Kognitiva och Kroppsliga. Till de kognitiva hör **psyke** och **intelligens**, medan de kroppsliga utgör **muskler** och **nerver**.
+
+### Kognitivt slag
+Slå en tärning **T4--T12** baserat på din #adrenalin. Det gäller nu att slå ett högre slag än vad denna tärningen visar.
+
+Slå nu en **T4--T12** beroende på vilken färdighet du ska slå för. Du träffar om tärningen visar ett högre värde än resultatet av att slå tärningen för **adrenalin**.
+
+**Kritisk miss** och **kritisk träff** gäller endast för tärningen för din valda färdighet.
+
+#### Pressa slaget
+Om du inte är nöjd med resultatet och kan öka **adrenalin**, kan du pressa ditt slag genom att rulla om på nytt och sedan öka med en nivå av **adrenalin**.
+
+### Kroppsligt slag
+Ta din **utmattning** - **adrenalin**, den lägsta möjliga nivån är **T4**, slå sedan tärningen. Slå nu för den färdighet du använder. Om detta slaget visar högre än det andra träffar du, annars är det en miss. **Kritisk miss** och **kritisk träff** appliceras endast på tärningen för färdigheten.
+
+#### Pressa slaget
+Om du inte är nöjd med resultatet och kan öka **utmattning**, kan du pressa ditt slag genom att öka **utmattning** och slå om igen.

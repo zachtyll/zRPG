@@ -2,7 +2,9 @@
 ## Introduktion
 ## Rundor & Initiativ
 ### Initiativ
-För att bestämma turordningen slår du mot din nivå **instinkt**. Den som slår högst börjar och resten följer i nedstigande ordning. Slår två varelser lika är det den med högst **adrenalin** som går före och är det fortfarande lika slås slaget om för de som behöver. Om du vill avvakta din tur till ett senare läge kan du byta plats med valfri varelse med lägre turordning. 
+För att bestämma vem som handlar först slår du mot din nivå **instinkt**. Den som slår högst utför sin handling först och resten följer i nedstigande ordning. Slår två varelser lika är det den med högst **adrenalin** som går före och är det fortfarande lika slås slaget om för de som behöver. 
+
+Om du vill avvakta din tur till ett senare läge kan du byta plats med valfri varelse med lägre turordning. 
 
 ### Överraskning
 Om du utför en attack som **SL** bedömer vara överraskande för din motståndare börjar du och dina allierade första rundan. Från andra rundan behandlas initiativet som vanligt.
@@ -42,10 +44,10 @@ I närstrid träffar alla typer av slag om målet inte undviker.
 ### Utmattning
 Efter att du utför en närstridsattack slår du för **uthållighet**. Missar du måste du öka **utmattning** med en nivå.
 ### Undvika
-När du blir träffad i närstrid kan du välja att undvika. För att undvika slår du mot **smidighet**, vid både träff och miss lyckas du undvika slaget, men vid miss måste du öka **utmattning** med en nivå. Vid **kritisk miss** lyckas du inte undvika. Vid **kritisk träff** undviker du och får ett frislag mot fienden. 
+När du blir träffad i närstrid kan du välja att undvika. För att undvika slår du mot **smidighet**, vid både träff och miss lyckas du undvika slaget, men vid miss måste du öka **utmattning** med en nivå. Om din **utmattning** är 5 tar du istället en nivå 1 skada. Vid **kritisk miss** lyckas du inte undvika och tar då skada. Vid **kritisk träff** undviker du och får ett frislag mot fienden. 
 
 ## Avståndsstrid
-För att skjuta ett skott slår du mot **koordination**.
+Vid avståndsstrid slår du för den färdighet som vapnet kräver.
 
 ## Skada
 Skadan bestäms av vilket vapen som används i attacken. När du tar skada slår du mot **smärtgräns**. Vid miss måste du öka **utmattning** med en nivå. 
