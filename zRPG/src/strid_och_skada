@@ -1,6 +1,13 @@
 # Strid & skada
 ## Introduktion
 ## Rundor & Initiativ
+### Rundor
+En runda består av flera faser:
+1. Initiativ
+2. Förflyttning
+3. Nära handlingar
+4. Avståndshandlingar
+
 ### Initiativ
 För att bestämma vem som handlar först slår du mot din nivå **instinkt**. Den som slår högst utför sin handling först och resten följer i nedstigande ordning. Slår två varelser lika är det den med högst **adrenalin** som går före och är det fortfarande lika slås slaget om för de som behöver. 
 
@@ -40,11 +47,16 @@ Strid utförs på ett rutnät där varje ruta är 2 kvadratmeter stor. Din maxim
 |4|9|
 |5|10|
 ## Närstrid
-I närstrid träffar alla typer av slag om målet inte undviker.
+I närstrid träffar alla typer av slag om målet inte undviker eller parerar.
 ### Utmattning
 Efter att du utför en närstridsattack slår du för **uthållighet**. Missar du måste du öka **utmattning** med en nivå.
 ### Undvika
-När du blir träffad i närstrid kan du välja att undvika. För att undvika slår du mot **smidighet**, vid både träff och miss lyckas du undvika slaget, men vid miss måste du öka **utmattning** med en nivå. Om din **utmattning** är 5 tar du istället en nivå 1 skada. Vid **kritisk miss** lyckas du inte undvika och tar då skada. Vid **kritisk träff** undviker du och får ett frislag mot fienden. 
+När du blir träffad i närstrid och kan öka **utmattning**, kan du välja att undvika. För att undvika gör du ett **kroppsligt slag** mot **smidighet**. Vid både träff och miss lyckas du undvika slaget, men vid miss måste du öka **utmattning** med en nivå.
+
+Vid **kritisk miss** tar du både skada och ökar **utmattning**. Vid **kritisk träff** får du ett frislag mot fienden. 
+
+### Parera
+När du blir träffad i närstrid kan du välja att parera. För att parera gör du ett **kroppsligt slag** mot **koordination**. Vid träff lyckas du parera, men vid miss tar du hela skadan utan extra effekter.
 
 ## Avståndsstrid
 Vid avståndsstrid slår du för den färdighet som vapnet kräver.
