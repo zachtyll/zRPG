@@ -66,12 +66,12 @@ Skadan bestäms av vilket vapen som används i attacken. När du tar skada slår
 ### Skadenivåer
 Det finns fyra skadenivåer:
 
-| **Nivå** | **Exempel** | **Orsakar** |
-|---|---|---|
-|1|Skrapsår och blåmärken|Ingen effekt|
-|2|Vrickade händer och brutna revben| Nackdel|
-|3|Brutna armar och hjärnskakningar| Läkarnöd|
-|4|Skott i huvudet och hugg i hjärtat| Död|
+| **Nivå** | **Exempel** | **Orsakar** | **Antal luckor** |
+|---|---|---|---|
+|1|Skrapsår och blåmärken|Ingen effekt|4|
+|2|Vrickade händer och brutna revben| Nackdel|3|
+|3|Brutna armar och hjärnskakningar| Läkarnöd|2|
+|4|Skott i huvudet och hugg i hjärtat| Död|1|
 
 När du tar skada av nivå 3 behöver du hjälp för att kunna utföra kroppsliga handlingar och vid nivå 4 dör du omedelbart.
 ### Första hjälpen
