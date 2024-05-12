@@ -48,8 +48,8 @@ Strid utförs på ett rutnät där varje ruta är 2 kvadratmeter stor. Din maxim
 |5|10|
 ## Närstrid
 I närstrid träffar alla typer av slag om målet inte undviker eller parerar.
-### Utmattning
-Efter att du utför en närstridsattack slår du för **uthållighet**. Missar du måste du öka **utmattning** med en nivå.
+### Kraftslag
+Du kan utföra ett kraftslag för att dubblera din skadeeffekt. Efter att du utför ett kraftslag slår du för **uthållighet**. Missar du måste du öka **utmattning** med en nivå.
 ### Undvika
 När du blir träffad i närstrid och kan öka **utmattning**, kan du välja att undvika. För att undvika gör du ett **kroppsligt slag** mot **smidighet**. Vid både träff och miss lyckas du undvika slaget, men vid miss måste du öka **utmattning** med en nivå.
 
