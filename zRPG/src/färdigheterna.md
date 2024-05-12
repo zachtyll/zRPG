@@ -42,13 +42,10 @@ Bestäm först graden av **utmaning** genom att slå en **T4--T12** baserat på 
 
 **Kritisk miss** och **kritisk träff** appliceras endast på tärningen för färdigheten.
 
-#### Pressa slaget
-Om du inte är nöjd med resultatet och kan öka **adrenalin**, kan du pressa ditt slag genom att rulla om på nytt och sedan öka med en nivå av **adrenalin**.
-
 ### Kroppsligt slag
 Bestäm först graden av **utmaning** genom att slå en **T4--T12** baserat på din **utmattning** - **adrenalin**. Slå sedan en **T4--T12** baserat på den **färdighet** som utmanas. Du träffar om **färdighet** visar högre värde än **utmaning**, annars är det en miss och du måste stå för konsekvenserna!
 
 **Kritisk miss** och **kritisk träff** appliceras endast på tärningen för färdigheten.
 
-#### Pressa slaget
-Om du inte är nöjd med resultatet och har utrymme att öka **adrenalin**, kan du pressa ditt slag genom att öka **adrenalin** och slå om igen.
+### Pressa slag
+Om du inte är nöjd med resultatet av ett kognitivt- eller kroppsligt slag och har utrymme att öka **adrenalin**, kan du pressa ditt slag genom att öka **adrenalin** och slå om igen.
