@@ -38,17 +38,17 @@ Det maximala antalet utmattningsnivåer är 5.
 Det finns två typer av slag: Kognitiva och Kroppsliga. Till de kognitiva hör **psyke** och **intelligens**, medan de kroppsliga utgör **muskler** och **nerver**.
 
 ### Kognitivt slag
-Slå en tärning **T4--T12** baserat på din #adrenalin. Det gäller nu att slå ett högre slag än vad denna tärningen visar.
+Bestäm först graden av **utmaning** genom att slå en **T4--T12** baserat på din **adrenalin**. Slå sedan en **T4--T12** baserat på den **färdighet** som utmanas. Du träffar om **färdighet** visar högre värde än **utmaning**, annars är det en miss och du måste stå för konsekvenserna!
 
-Slå nu en **T4--T12** beroende på vilken färdighet du ska slå för. Du träffar om tärningen visar ett högre värde än resultatet av att slå tärningen för **adrenalin**.
-
-**Kritisk miss** och **kritisk träff** gäller endast för tärningen för din valda färdighet.
+**Kritisk miss** och **kritisk träff** appliceras endast på tärningen för färdigheten.
 
 #### Pressa slaget
 Om du inte är nöjd med resultatet och kan öka **adrenalin**, kan du pressa ditt slag genom att rulla om på nytt och sedan öka med en nivå av **adrenalin**.
 
 ### Kroppsligt slag
-Ta din **utmattning** - **adrenalin**, den lägsta möjliga nivån är **T4**, slå sedan tärningen. Slå nu för den färdighet du använder. Om detta slaget visar högre än det andra träffar du, annars är det en miss. **Kritisk miss** och **kritisk träff** appliceras endast på tärningen för färdigheten.
+Bestäm först graden av **utmaning** genom att slå en **T4--T12** baserat på din **utmattning** - **adrenalin**. Slå sedan en **T4--T12** baserat på den **färdighet** som utmanas. Du träffar om **färdighet** visar högre värde än **utmaning**, annars är det en miss och du måste stå för konsekvenserna!
+
+**Kritisk miss** och **kritisk träff** appliceras endast på tärningen för färdigheten.
 
 #### Pressa slaget
-Om du inte är nöjd med resultatet och kan öka **utmattning**, kan du pressa ditt slag genom att öka **utmattning** och slå om igen.
+Om du inte är nöjd med resultatet och har utrymme att öka **adrenalin**, kan du pressa ditt slag genom att öka **adrenalin** och slå om igen.
