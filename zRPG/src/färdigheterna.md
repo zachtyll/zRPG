@@ -18,7 +18,7 @@ För att skapa nivåer över 5 lägger du till en extra tärning med de resteran
 
 **Utmattning** ökas när du utför fysiskt påfrestande handlingar som är utanför din förmåga och gör dig mer sårbar för skador. Utmattning påverkar dock inte din kognitiva förmåga.
 
-Det maximala antalet nivåer för adrenalin och utmattning är 5.
+Det maximala antalet nivåer för **adrenalin** och **utmattning** är 5.
 
 ## Träff & miss
 När du utför en handling i zRPG jämför du din **färdighet** mot din **utmaning** och avgör om du fått en **träff** eller en **miss**. Vid **träff** har du lyckats med din handling, men vid **miss** har du misslyckats och måste ta en **konsekvens**!
@@ -43,9 +43,24 @@ För varje fördel ökar du din **färdighet** och för varje nackdel ökar du d
 ### Kritisk träff & miss
 Om du får en **utmaning** och slår det 1 för **färdighet** räknas det som en **kritisk miss**. Detta leder till stora **konsekvenser**. Slår du det högsta möjliga värdet för din **färdighet** räknas det istället som en **kritisk träff** och du klarar din **utmaning** med stor framgång.
 
-### Samarbete
-Varje spelare får en **fördel** och slår för sin egen nivå av **färdighet** för att se om handlingen lyckas. Det räcker med att en spelare lyckas för att handlingen ska lyckas.
-
-Om någon av spelarna slår en **kritisk miss** innebär det att samarbetet faller samman och att samtliga spelare misslyckas med handlingen.
-
 En **kritisk miss** negerar en **kritisk träff** och vice versa.
+
+### Samarbete
+Varje spelare får en **fördel** och gör varsin **utmaning**. Det räcker med att en spelare får **träff** för att handlingen ska lyckas.
+
+Om någon av spelarna slår en **kritisk miss** innebär det att samarbetet faller samman och att samtliga inblandade spelare tar en **konsekvens**.
+
+## Konsekvenser
+När du får **miss** eller **kritisk miss** tilldelas du en **konsekvens** av **SL**. Vilken **konsekvens** som tilldelas är upp till **SL**.
+
+### Förlora resurs
+Detta kan t.ex. vara att öka **adrenalin** eller **utmattning**, eller förlora eller skada en ägodel.
+
+### Komplikation
+Detta kan t.ex. vara att en person tappar tilliten till en spelare, att ett antagande inte stämmer eller att ett larm slagits på och varnat fiender om er närvaro!
+
+### Ta skada
+Du tar skada.
+
+### Tanke
+Ditt misslyckande gör att du tänker efter och skapar en association med en händelse.
