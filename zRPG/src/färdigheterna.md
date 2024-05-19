@@ -29,21 +29,19 @@ Det finns två typer av utmaningar; kognitiva och kroppsliga. Kognitiva utmaning
 När en spelare utför en handling som innebär en risk ber **SL** om ett test mot en utmaning. Spelaren genomför utmaningen för att se om den får en **träff**. Om spelaren får en **miss** så ger **SL** en **konsekvens**.
 
 ### Kognitiv utmaning
-Bestäm först graden av **utmaning** genom att slå en **T4--T12** baserat på din **adrenalin**. Slå sedan en **T4--T12** baserat på den **färdighet** som utmanas. Du träffar om **färdighet** visar högre värde än **utmaning**, annars är det en **miss**.
+Bestäm först nivån av **utmaning** genom att slå en **T4--T12** baserat på **adrenalin**. Slå sedan en **T4--T12** baserat på den **färdighet** som utmanas. Du träffar om **färdighet** visar högre värde än **utmaning**, annars är det en **miss**.
 
 ### Kroppslig utmaning
-Bestäm först graden av **utmaning** genom att slå en **T4--T12** baserat på din **utmattning** - **adrenalin**. Slå sedan en **T4--T12** baserat på den **färdighet** som utmanas. Du träffar om **färdighet** visar högre värde än **utmaning**, annars är det en **miss**.
+Bestäm först nivån av **utmaning** genom att slå en **T4--T12** baserat på **utmattning** - **adrenalin**. Slå sedan en **T4--T12** baserat på den **färdighet** som utmanas. Du träffar om **färdighet** visar högre värde än **utmaning**, annars är det en **miss**.
 
 ### Pressa slag
-Om du inte är nöjd med resultatet av **utmaningen** och har utrymme att öka **adrenalin**, kan du **pressa** ditt slag genom att öka **adrenalin** och slå om igen.
+Om du inte vill ta en **konsekvens** och har utrymme att öka **adrenalin**, kan du **pressa** ditt slag genom att öka **adrenalin** och slå om igen.
 
 ### Fördel & nackdel
 För varje fördel ökar du din **färdighet** och för varje nackdel ökar du din **utmaning**. En fördel negerar en nackdel och vice versa.
 
 ### Kritisk träff & miss
-Slår du 1 för någon tärning räknas det som en **kritisk miss**. Detta leder till negativa konsekvenser utöver det vanliga. Motsatsen, **kritisk träff**, får du om du slår det högsta din #smallcaps **T4--T12** kan bli. Då händer ofta något positivt utöver det vanliga.
-
-Både kritiska träffar och missar leder till **lärdom** +1 i färdigheten som prövats.
+Om du får en **utmaning** och slår det 1 för **färdighet** räknas det som en **kritisk miss**. Detta leder till stora **konsekvenser**. Slår du det högsta möjliga värdet för din **färdighet** räknas det istället som en **kritisk träff** och du klarar din **utmaning** med stor framgång.
 
 ### Samarbete
 Varje spelare får en **fördel** och slår för sin egen nivå av **färdighet** för att se om handlingen lyckas. Det räcker med att en spelare lyckas för att handlingen ska lyckas.
