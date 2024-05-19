@@ -14,3 +14,29 @@ Hunden är människans bästa vän. Eftersom de är lägre stående varelser sak
 | **Koordination**|2|
 | **Finmotorik** |1|
 | **Smidighet** |4|
+
+# Pliktmaskiner
+
+## Ordningsvakter
+Ordningsvakter har griparmar för att brotta omkull folk och är även bestyckade med tre doser av sövande läkemedel i en spruta som de kan injicera när målet greppats tag i.
+### Närstridsattacker
+- Greppa - Z39 greppar målet och gör att de inte kan utföra handlingar eller röra sig. För att bryta sig fri krävs träff för **krut**.
+- Krossa - krossar ett greppat mål och triggar **smärtgräns**.
+- Stampa - stampar på ett liggande mål och triggar **smärtgräns**.
+- Döva - sticker ett greppat mål med en dövande vätska.
+
+## Bygg din egen
+Du kan bygga en egen pliktmaskin genom att välja bland olika moduler. Här är ett gäng fördefinerade moduler.
+### Huvuden
+Här är en lista på huvudmoduler:
+- Skyddad - Räknas som rustning för huvudet.
+- Radio - Kan telekommunicera med andra saker med radio.
+- Mörkersyn - Kan se mål i totalt mörker utan nackdelar.
+- Fullsyn - Har 360 graders synfält. Kan inte bli överraskad.
+
+### Lemmar
+Här är en lista på moduler för lemmar:
+- Grip - Kan greppa och hålla fast ett mål.
+- Bestyckning - Kan bestyckas med vapen.
+- Rullband - Kan bestyckas med tung utrustning. Kan inte utföra smidiga handlingar.
+- Grodben - Ökad hoppförmåga. Sänkt bärkapacitet.
