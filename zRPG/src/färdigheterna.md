@@ -11,8 +11,10 @@ Det finns fem nivåer av tärningar:
 | 4 | T10 |
 | 5 | T12 |
 
+För att skapa nivåer över 5 lägger du till en extra tärning med de resterande nivåerna.
+
 ### Fördel & nackdel
-Vid fördel går du upp en tärningsnivå och vid nackdel går du ned en tärningsnivå. För- och nackdelar kan "staplas" på varandra. En fördel negerar en nackdel och vice versa.
+För varje fördel ökar du din **färdighet** och för varje nackdel ökar du din **utmaning**. En fördel negerar en nackdel och vice versa.
 
 ### Kritisk träff & miss
 Slår du 1 för någon tärning räknas det som en **kritisk miss**. Detta leder till negativa konsekvenser utöver det vanliga. Motsatsen, **kritisk träff**, får du om du slår det högsta din #smallcaps **T4--T12** kan bli. Då händer ofta något positivt utöver det vanliga.
@@ -20,7 +22,9 @@ Slår du 1 för någon tärning räknas det som en **kritisk miss**. Detta leder
 Både kritiska träffar och missar leder till **lärdom** +1 i färdigheten som prövats.
 
 ### Samarbete
-Om en spelare hjälper en annan med en uppgift slår var spelare för sin egen nivå av färdigheten.
+Varje spelare får en **fördel** och slår för sin egen nivå av **färdighet** för att se om handlingen lyckas. Det räcker med att en spelare lyckas för att handlingen ska lyckas.
+
+Om någon av spelarna slår en **kritisk miss** innebär det att samarbetet faller samman och att samtliga spelare misslyckas med handlingen.
 
 En **kritisk miss** negerar en **kritisk träff** och vice versa.
 
