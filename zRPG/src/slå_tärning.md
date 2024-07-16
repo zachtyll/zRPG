@@ -41,7 +41,7 @@ Om du inte vill ta en **konsekvens** och har utrymme att öka **adrenalin**, kan
 För varje fördel ökar du din **färdighet** och för varje nackdel ökar du din **utmaning**. En fördel negerar en nackdel och vice versa.
 
 ### Kritisk träff & miss
-Om du får en **utmaning** och slår det 1 för **färdighet** räknas det som en **kritisk miss**. Detta leder till stora **konsekvenser**. Slår du det högsta möjliga värdet för din **färdighet** räknas det istället som en **kritisk träff** och du klarar din **utmaning** med stor framgång.
+Om du får en **utmaning** och slår 1 för **färdighet** räknas det som en **kritisk miss**. Detta leder till stora **konsekvenser**. Slår du det högsta möjliga värdet för din **färdighet** räknas det istället som en **kritisk träff** och du klarar din **utmaning** med stor framgång.
 
 En **kritisk miss** negerar en **kritisk träff** och vice versa.
 

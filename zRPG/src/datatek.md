@@ -1,8 +1,8 @@
 # Datatek
 ## Introduktion
-Det är endast ett fåtal som känner till hur kodverk fungerar och ännu färre som känner till det väl, dessa kallas i folkmun för "Sudo". För att utföra sudo krävs det att din karaktär har förmågan *Sudo*.
+Det är endast ett fåtal som känner till hur kodverk fungerar och ännu färre som känner till det väl, dessa kallas i folkmun för "Sudo". För att utföra sudo krävs det att din karaktär har förmågan **Sudo**.
 ## Säkerhetsnivå och Underhåll
-Mjukvarusystem har två axlar av svårighetsgrad: **säkerhetsnivå** och **underhåll**. **Säkerhetsnivå** beskriver hur mån någon varit att göra ett gediget arbete på systemet och **underhåll** är sannolikheten att arbetets kvalité bevarats över åren. Det finns 5 nivåer som bestämmer om det är **T4--T12** som behöver slås.
+Mjukvarusystem har två axlar av **utmaning**: **säkerhetsnivå** och **underhåll**. **Säkerhetsnivå** beskriver hur mån någon varit att göra ett gediget arbete på systemet och **underhåll** är sannolikheten att arbetets kvalité bevarats över åren. Det finns 5 nivåer som bestämmer om det är **T4--T12** som behöver slås.
 
 ## Hackning
 För att kunna hacka något måste det innehålla en dator, vara uppkopplad eller fysiskt tillgänglig för dig under en hel vila.
