@@ -62,7 +62,10 @@ När du blir träffad i närstrid kan du välja att parera. För att parera gör
 Vid avståndsstrid slår du för den färdighet som vapnet kräver.
 
 ## Skada
-Skadan bestäms av vilket vapen som används i attacken. När du tar skada slår du mot **smärtgräns**. Vid miss måste du öka **utmattning** med en nivå. 
+Skada beskriver hur livskraftig du är. 
+### Ta skada
+När du tar skada slår du mot **smärtgräns**. Vid miss ökar du **utmattning**. **SL** beskriver sedan hur du blir skadad och vilken nivå av skada det är. Du skriver då ned skadan i en lucka för den relevanta skadenivån. Om samtliga luckor för skadenivån redan är fyllda beskriver **SL** en ny skada på nästa skadenivå och du skriver ned skadan i luckan för den nya skadenivån. 
+
 ### Skadenivåer
 Det finns fyra skadenivåer:
 
