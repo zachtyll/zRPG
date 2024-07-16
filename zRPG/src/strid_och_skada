@@ -27,6 +27,7 @@ Reaktiva handlingar utförs på motståndarens tur och räknas som fria handling
 - **Sprinta** - Fördubbla din förflyttning.
 - **Närstridsattack** - Attackera en fiende inom 2 meter.
 - **Avståndsattack** - Attackera en fiende på avstånd.
+- **Förbered dig** - Förbered dig inför något.
 - **Undvika** - Att undvika en attack i närstrid eller på avstånd är en reaktiv handling som sker utanför din tur i turordningen.
 - **Plocka upp föremål** - Ta upp något inom 2 meter eller ur din packning.
 - **Ta av/på kläder/utrustning** - Ibland vill man ta av eller på sig saker.
@@ -59,10 +60,15 @@ Vid **kritisk miss** tar du både skada och ökar **utmattning**. Vid **kritisk 
 När du blir träffad i närstrid kan du välja att parera. För att parera gör du ett **kroppsligt slag** mot **koordination**. Vid träff lyckas du parera, men vid miss tar du hela skadan utan extra effekter.
 
 ## Avståndsstrid
-Vid avståndsstrid slår du för den färdighet som vapnet kräver.
+### Avfyra vapen
+För att **avfyra** ett vapen utmanar du **koordination** med **nackdel** för varje nivå **otymplighet** ditt vapen har.
+### Sikta vapen
+Du kan garantera att ett avfyrat vapen träffar sitt mål genom att **sikta** vapnet. Du **siktar** genom att **förbereda dig** med en utmaning mot **visualisering**. Om du träffar kommer alla skott du **avfyrar** nästa runda att träffa sitt mål.
 
 ## Skada
-Skada beskriver hur livskraftig du är. 
+Skada beskriver hur livskraftig du är.
+### Skydd
+Om du har på dig personskydd innebär det att skadan reduceras med det **skyddsvärde** ditt burna personskydd har.
 ### Ta skada
 När du tar skada slår du mot **smärtgräns**. Vid miss ökar du **utmattning**. **SL** beskriver sedan hur du blir skadad och vilken nivå av skada det är. Du skriver då ned skadan i en lucka för den relevanta skadenivån. Om samtliga luckor för skadenivån redan är fyllda beskriver **SL** en ny skada på nästa skadenivå och du skriver ned skadan i luckan för den nya skadenivån. 
 
@@ -71,12 +77,11 @@ Det finns fyra skadenivåer:
 
 | **Nivå** | **Exempel** | **Orsakar** | **Antal luckor** |
 |---|---|---|---|
-|1|Skrapsår och blåmärken|Ingen effekt|4|
-|2|Vrickade händer och brutna revben| Nackdel|3|
-|3|Brutna armar och hjärnskakningar| Läkarnöd|2|
-|4|Skott i huvudet och hugg i hjärtat| Död|1|
+|1|Skrapsår och blåmärken |Ingen effekt |4|
+|2|Vrickade händer och brutna revben | Nackdel |3|
+|3|Brutna armar och hjärnskakningar | Kräver samarbete för kroppsliga utmaningar |2|
+|4|Skott i huvudet och hugg i hjärtat | Omedelbar död |1|
 
-När du tar skada av nivå 3 behöver du hjälp för att kunna utföra kroppsliga handlingar och vid nivå 4 dör du omedelbart.
 ### Första hjälpen
 För att utföra första hjälpen krävs det att du bär på läkemedel.
 ## Läkning & vila
