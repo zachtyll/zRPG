@@ -27,7 +27,7 @@ Reaktiva handlingar utförs på motståndarens tur och räknas som fria handling
 - **Sprinta** - Fördubbla din förflyttning.
 - **Närstridsattack** - Attackera en fiende inom 2 meter.
 - **Avståndsattack** - Attackera en fiende på avstånd.
-- **Förbered dig** - Förbered dig inför något.
+- **Förbereda** - Förbered dig inför något.
 - **Undvika** - Att undvika en attack i närstrid eller på avstånd är en reaktiv handling som sker utanför din tur i turordningen.
 - **Plocka upp föremål** - Ta upp något inom 2 meter eller ur din packning.
 - **Ta av/på kläder/utrustning** - Ibland vill man ta av eller på sig saker.
@@ -50,7 +50,13 @@ Strid utförs på ett rutnät där varje ruta är 2 kvadratmeter stor. Din maxim
 ## Närstrid
 I närstrid träffar alla typer av slag om målet inte undviker eller parerar.
 ### Kraftslag
-Du kan utföra ett kraftslag för att dubblera din skadeeffekt. Efter att du utför ett kraftslag slår du för **uthållighet**. Missar du måste du öka **utmattning** med en nivå.
+Du kan utföra ett kraftslag för att dubblera din skadeeffekt. Efter att du utför ett kraftslag utmanar du **uthållighet**. Missar du måste du öka **utmattning** med en nivå.
+### Utnyttja svaghet
+Du kan förbereda dig för att utnyttja en svaghet hos ett fientligt mål genom att träffa en utmaning mot **uppfattning**.
+### Brotta
+Du kan brotta fast ett mål genom att utmana **krut** med **fördel** för varje nivå **utmattning** målet har. Både du och målet faller till marken. Om du träffar måste målet träffa en utmaning mot **krut** för att kunna utföra kroppsliga handlingar.
+### Fälla
+Du kan fälla ett mål genom att utmana **koordination** med **fördel** flr varje nivå **utmattning** målet har. Om du träffar faller målet till marken.
 ### Undvika
 Om du kan öka **utmattning** kan du välja att undvika när du blir attackerad i närstrid. För att undvika gör du ett **kroppsligt slag** mot **smidighet**. Vid både träff och miss lyckas du undvika slaget, men vid miss måste du öka **utmattning** med en nivå.
 

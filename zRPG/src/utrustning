@@ -14,10 +14,10 @@ Utrustning är bra att ha. Grejer man kan bära med sig.
 | Elpistol      | 30            | 1         | 1               | Kan lamslå fiender temporärt (Slag mot **smärtgräns**) |
 | Pepparsprej   | 2             | 1         | 0               | Kan lamslå fiender temporärt (Slag mot **smärtgräns**) |
 | Gasgranat     | **Krut**      | 1         | 1               | Täcker ett 8m2 område med rök som gör det omöjligt att se varken ut eller in |
-| Pistol        | Lång          | 1         | 1               | Kan siktas och avfyras på samma runda |
-| Gevär         | Lång          | 1         | 3               ||
-| Hagelbössa    | Lång          | 1         | 3               | Om utmaning mot **krut** träffar kan hagelbössan avfyras igen |
-| Automatkarbin | Lång          | 1         | 3               | Om utmaning mot **koordination** träffar kan automatkarbin avfyras igen |
+| Pistol        | Lång          | 3-4       | 1               | Kan **sikta** och **avfyra** på samma runda |
+| Gevär         | Lång          | 3-4       | 3               | Ger 2 **fördel** för handlingen **sikta** |
+| Hagelbössa    | Lång          | 4         | 3               ||
+| Automatkarbin | Lång          | 3-4       | 3               | Om utmaning mot **koordination** träffar kan automatkarbin avfyras igen samma runda |
 ## Kroppsskydd
 ### Västar
 - Kevlarväst - Lätt skydd mot projektiler
